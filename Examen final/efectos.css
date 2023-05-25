@@ -1,0 +1,128 @@
+h1 {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+
+.titulo {
+    margin: 30px;
+    border: 5px solid green;
+    border-radius: 20px;
+    background-color: rgb(222, 247, 239);
+    padding: 10px;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZWPuBY8MkP_wLKV2gHtkiT85Fozl4XmnnuiMuL4xVvGRpjeMA6GeeGVYBRRAbuXwdw18&usqp=CAU);
+}
+
+p {
+    font-family: 'Fredoka One', cursive; 
+    font-size: 23px;
+}
+
+.contenedor {
+    background-color: rgb(99, 158, 112);
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    padding-top: 50px;
+}
+
+table {
+    font-size: 20px;
+    background-color: rgb(222, 247, 239);
+    margin-left: 50px;
+    font-family: 'Fredoka One', cursive;
+    border-radius: 20px;
+    width: 46%;
+}
+
+table, th, td {
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+th {
+    background-color: rgb(131, 196, 163);
+}
+
+td {
+    text-align: left;
+}
+
+.uno {
+    background-color: rgba(204, 240, 203, 0.884);
+}
+
+.dos {
+    background-color: rgba(159, 233, 165, 0.836);
+}
+
+.tortuga1 {
+    margin-left: 6%;
+    
+}
+
+hr {
+   height: 10px;
+   border: none;
+   background-color: rgb(255, 255, 255);
+   border-radius: 20px;
+}
+
+.titulo2 {
+    margin: 40px;
+}
+
+.titulo3 {
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+.titulo4 {
+    margin-top: 70px;
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.contenedor2 {
+    margin: 50px;
+    background-color: rgb(170, 243, 200);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.tortuga2 {
+    margin-left: 20%;
+}
+
+.tortuga3 {
+    margin-left: 25%;
+}
+
+.ok {
+    display: flex;
+}
+
+tbody tr {
+    cursor: pointer;
+}
+tbody tr:hover {
+    background: rgba(67, 151, 99, 0.89);
+}
+
+.texto {
+    margin-top: 5%;
+    margin-left: 70px;
+    font-size: 25px;
+}
+
+li {
+    font-size: 20px;
+    margin-left: 3%;
+    font-family: 'Fredoka One', cursive;
+    font-size: 23px;
+    margin: 40px;
+}
+
